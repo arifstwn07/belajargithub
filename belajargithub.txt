@@ -8,3 +8,4 @@ ini adalah belajar tentang github
 -git merge conflict
 -remote branch
 -git rebranch
+-git & web hosting
