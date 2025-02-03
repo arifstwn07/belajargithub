@@ -1,11 +1,10 @@
 ini adalah belajar tentang github
 -Apa itu github
-*pengertian
-*penggunaan
-*kesimpulan
 -Bekerja dengan github
 -branch
 -frok
 -git branch dan merge
 -git remote
 -git merge conflict
+-remote branch
+-git rebranch
