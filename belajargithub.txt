@@ -2,3 +2,5 @@ ini adalah belajar tentang github
 -Apa itu github
 -Bekerja dengan github
 -branch
+-frok
+-bekerja dengan git
