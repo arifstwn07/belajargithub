@@ -3,4 +3,4 @@ ini adalah belajar tentang github
 -Bekerja dengan github
 -branch
 -frok
--bekerja dengan git
+-git branch dan merge
