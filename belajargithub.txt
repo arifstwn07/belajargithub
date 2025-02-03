@@ -8,3 +8,4 @@ ini adalah belajar tentang github
 -frok
 -git branch dan merge
 -git remote
+-git merge conflict
