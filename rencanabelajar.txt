@@ -1,4 +1,6 @@
 rencana belajar github
 -apa itu git & github
+*arti
+*perbedaan
 -bagaimana bekerja dengan github?
 -github : branch
